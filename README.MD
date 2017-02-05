@@ -25,7 +25,7 @@ biocLite("hgu95av2.db")
 
 #以下出错信息为缺少包'AnnotationDbi'，
 #biocLite("AnnotationDbi")安装就是了
-<code>
+<pre><code>
 * installing *source* package 'org.Hs.eg.db' ...
 ** R
 ** inst
@@ -37,4 +37,4 @@ ERROR: lazy loading failed for package 'org.Hs.eg.db'
 * removing 'D:/Software/R/R-3.3.2/library/org.Hs.eg.db'
 ERROR: dependency 'org.Hs.eg.db' is not available for package 'hgu95av2.db'
 * removing 'D:/Software/R/R-3.3.2/library/hgu95av2.db'
-</code>
+</code></pre>
