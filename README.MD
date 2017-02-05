@@ -1,6 +1,6 @@
 #R Language Learning
-关于R语言学习的一些经验
-R语言资源
+关于R语言学习的一些经验</br>
+R语言资源</br>
 [糗世界](http://blog.qiubio.com:8080) </br>
 [清华大学开源软件镜像站](https://mirror.tuna.tsinghua.edu.cn/) </br>
 [中科大开源软件镜像站](http://mirrors.ustc.edu.cn/)</br>
