@@ -1,9 +1,9 @@
 #R Language Learning
 ####关于R语言学习的一些经验</br>
 #####R语言资源</br>
-[糗世界](http://blog.qiubio.com:8080) </br>
-[清华大学开源软件镜像站](https://mirror.tuna.tsinghua.edu.cn/) </br>
-[中科大开源软件镜像站](http://mirrors.ustc.edu.cn/)</br>
++[糗世界](http://blog.qiubio.com:8080) </br>
++[清华大学开源软件镜像站](https://mirror.tuna.tsinghua.edu.cn/) </br>
++[中科大开源软件镜像站](http://mirrors.ustc.edu.cn/)</br>
 
 #####更换源镜像
 R目录下/etc/Rprofile.site 在文档末添加下面两行，更换为清华的R包源镜像和Bioconductor源镜像</br>
